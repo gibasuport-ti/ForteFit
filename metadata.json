@@ -1,0 +1,6 @@
+{
+  "name": "ForteFit Suplementos",
+  "description": "Plataforma e-commerce moderna, responsiva e segura de suplementos alimentares, com catálogo, carrinho, checkout multi-pagamentos, área do cliente e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
